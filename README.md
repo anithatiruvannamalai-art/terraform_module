@@ -1,1 +1,1 @@
-# terraform_module
+# module/main.tf
